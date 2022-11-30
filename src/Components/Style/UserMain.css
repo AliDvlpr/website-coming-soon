@@ -2,8 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    max-width: 1920px;
-    margin: auto;
+
 }
 
 body {
@@ -18,27 +17,20 @@ body {
 }
 
 .particles-sty {
-    position: relative;
-    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.div-video {
-    width: 100%;
-}
-
-.div-video video {
-    text-align: center !important;
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    margin-top: -809px !important;
-    color: white !important;
+.particles-sty video {
     width: 100%;
 }
 
 .loader-span-sty span {
     text-align: center !important;
     display: flex !important;
+    max-width: 1920px;
+    margin: auto;
     justify-content: center !important;
     align-items: center !important;
     top: 200px !important;
