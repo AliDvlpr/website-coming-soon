@@ -1,0 +1,97 @@
+@media screen and (max-width: 977px) {
+    .div-video video {
+        text-align: center !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        color: white !important;
+        width: 100%;
+        /* margin-top: -993px !important; */
+        height: 100vh;
+
+    }
+}
+
+@media screen and (max-width: 1649px) {
+    .div-video video {
+        margin-top: -786px !important;
+
+    }
+}
+
+
+
+@media screen and (max-width: 1079px) {
+    .div-video video {
+        text-align: center !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        margin-top: -674px !important;
+        color: white !important;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .div-video video {
+        text-align: center !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        color: white !important;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 976px) {
+    .div-video video {
+        text-align: center !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        color: white !important;
+        width: 100%;
+        margin-top: -923px !important;
+    }
+}
+
+@media screen and (max-width: 759px) {
+    .div-video video {
+        text-align: center !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 100%;
+        height: 100vh;
+        margin-top: -913px !important;
+    }
+}
+
+@media screen and (max-width: 599px) {
+    .div-video video {
+        text-align: center !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        color: white !important;
+        width: 100%;
+        margin-top: -925px !important;
+        height: 100vh;
+
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .div-video video {
+        text-align: center !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        color: white !important;
+        width: 100%;
+        margin-top: -939px !important;
+        height: 100vh;
+
+    }
+}
