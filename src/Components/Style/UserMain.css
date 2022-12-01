@@ -13,7 +13,7 @@ body {
 /* Custom Style */
 
 #tsparticles {
-    height: 99vh;
+    height: 100vh;
 }
 
 .particles-sty {
@@ -29,12 +29,10 @@ body {
 .loader-span-sty span {
     text-align: center !important;
     display: flex !important;
-    max-width: 1920px;
     margin: auto;
     justify-content: center !important;
     align-items: center !important;
-    top: 200px !important;
-    color: white !important;
+    top: 125px !important;
 }
 
 /* Custom Style */

@@ -9,7 +9,7 @@ function App() {
     setLoading(true)
     setTimeout(() => {
       setLoading(false)
-    }, 4000)
+    }, 40000)
   }, [])
   return (
     <div className="loader-span-sty">
