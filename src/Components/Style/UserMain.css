@@ -23,6 +23,7 @@ body {
 }
 
 .particles-sty video {
+    margin-top: -40px;
     width: 100%;
 }
 
